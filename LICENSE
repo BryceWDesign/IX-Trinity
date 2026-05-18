@@ -1,0 +1,128 @@
+IX-Trinity Source-Available Evaluation License v1.0
+
+Copyright © 2026 Bryce Lovell. All rights reserved except as expressly granted
+in this license.
+
+This repository is made publicly available for inspection, technical review,
+noncommercial evaluation, and reproducibility testing only. It is not open
+source. It is not licensed under Apache-2.0, MIT, GPL, BSD, or any other
+standard open-source license.
+
+1. Definitions
+
+"Project" means the IX-Trinity repository, including its source code,
+documentation, diagrams, examples, specifications, test materials, architecture
+descriptions, models, scripts, and related files.
+
+"Licensor" means Bryce Lovell.
+
+"Evaluation Use" means viewing, cloning, downloading, reading, running tests,
+and reviewing the Project solely to understand, inspect, critique, validate, or
+evaluate the Project.
+
+"Commercial Use" means any use connected to business, revenue, contracts,
+procurement, production, operations, consulting, contractor work, funded pilots,
+industrial deployment, hosted services, derivative products, manufacturing,
+safety-critical systems, government programs, defense programs, or internal
+business operations.
+
+2. Permission Granted
+
+Subject to this license, you may:
+
+(a) view and inspect the Project;
+(b) clone or download the Project for Evaluation Use;
+(c) run tests or examples locally for Evaluation Use;
+(d) analyze, critique, or discuss the Project;
+(e) submit issues, feedback, or noncommercial suggestions.
+
+3. Commercial License Required
+
+You may not use the Project for Commercial Use without prior written permission
+from the Licensor and a separate paid commercial license.
+
+Commercial Use includes, but is not limited to:
+
+(a) production use;
+(b) industrial use;
+(c) government contractor use;
+(d) defense contractor use;
+(e) procurement evaluation beyond technical review;
+(f) funded pilot programs;
+(g) hosted service use;
+(h) derivative commercial products;
+(i) manufacturing use;
+(j) operational field use;
+(k) safety-critical or mission-critical use;
+(l) integration into commercial hardware, software, platforms, or services;
+(m) use in consulting, client delivery, or paid research services.
+
+4. Restrictions
+
+You may not, without prior written permission from the Licensor:
+
+(a) sell, sublicense, rent, lease, or commercially distribute the Project;
+(b) remove or alter copyright, license, attribution, or warning notices;
+(c) represent the Project as open source;
+(d) use the Project to create or support a competing commercial product or
+    service;
+(e) use the Project in production, operational, safety-critical, industrial,
+    government, defense, or contractor environments;
+(f) use the Project to make certification, compliance, safety, performance, or
+    operational-readiness claims;
+(g) use the Project in any way that violates applicable law or regulation.
+
+5. No Patent License
+
+No patent license is granted by this license. Any patent rights, if applicable,
+are reserved by the Licensor unless separately granted in a signed written
+agreement.
+
+6. Contributions
+
+Unless a separate written agreement states otherwise, any issue, suggestion,
+comment, pull request, patch, idea, or other contribution submitted to the
+Project may be used by the Licensor for any purpose without obligation.
+
+Submitting a contribution does not give you ownership of the Project or any
+right to use the Project commercially.
+
+7. No Warranty
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SAFETY, ACCURACY, PERFORMANCE,
+OR RELIABILITY.
+
+8. No Liability
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, LOSSES,
+LIABILITIES, COSTS, OR EXPENSES ARISING FROM OR RELATED TO THE PROJECT OR USE
+OF THE PROJECT, WHETHER IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR
+OTHERWISE.
+
+9. No Safety or Operational Claim
+
+The Project is an early technical evaluation repository. It is not a
+certification package, not a safety case, not an operational guarantee, not a
+production system, and not an approval for real-world pulsed-power, fusion,
+industrial, aerospace, defense, manufacturing, or safety-critical use.
+
+10. Termination
+
+If you violate this license, your rights under this license terminate
+automatically. Upon termination, you must stop using the Project and delete any
+copies in your possession or control, unless otherwise required by law.
+
+11. Commercial Licensing Contact
+
+Commercial, industrial, production, derivative, hosted-service, contractor,
+procurement, funded-pilot, government, defense, manufacturing, field,
+safety-critical, or operational use requires prior written permission and a
+separate paid commercial license from Bryce Lovell.
+
+Public positioning:
+
+IX-Trinity is a public technical evaluation repository.
+IX-Trinity is source-available.
+IX-Trinity is not open source.
