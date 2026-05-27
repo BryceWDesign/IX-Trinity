@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ix-trinity"
+version = "0.1.0"
+description = "Source-available evaluation prototype for a bounded, evidence-gated tri-sector pulsed-energy architecture."
+requires-python = ">=3.10"
+authors = [
+  { name = "Bryce Lovell" }
+]
+keywords = [
+  "pulsed-energy",
+  "supercapacitor",
+  "energy-accounting",
+  "evidence-bundles",
+  "phase-authority",
+  "safety-gates",
+  "testbed"
+]
+classifiers = [
+  "Development Status :: 2 - Pre-Alpha",
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering",
+  "Typing :: Typed"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+pythonpath = ["src"]
