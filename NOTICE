@@ -1,0 +1,25 @@
+IX-Trinity
+
+Copyright © 2026 Bryce Lovell. All rights reserved except as expressly granted
+in the IX-Trinity Source-Available Evaluation License v1.0.
+
+IX-Trinity is a source-available technical evaluation repository for a bounded,
+measurement-first pulsed-energy architecture.
+
+Public inspection, technical evaluation, noncommercial review, and reproducibility
+testing are permitted under the LICENSE file.
+
+Commercial, industrial, production, derivative, hosted-service, contractor,
+procurement, funded-pilot, government, defense, manufacturing, field,
+safety-critical, or operational use requires prior written permission and a
+separate paid commercial license from Bryce Lovell.
+
+IX-Trinity is not open source.
+
+IX-Trinity does not claim production readiness, certification, defense approval,
+industrial deployment readiness, fusion performance, plasma confinement success,
+superconducting hardware proof, breakthrough supercapacitor performance, or
+operational safety.
+
+The repository is intended to make assumptions, measurements, failure modes,
+claim boundaries, evidence records, and scale-up gates explicit.
